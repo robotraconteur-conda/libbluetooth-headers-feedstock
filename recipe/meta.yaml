@@ -1,6 +1,6 @@
 package:
   name: libbluetooth-headers
-  version: 5.56
+  version: 5.56.post1
 
 source:
   url: http://www.kernel.org/pub/linux/bluetooth/bluez-5.56.tar.xz
